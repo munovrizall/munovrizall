@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Novrizal Sugiarto</h1>
 <h3 align="center">A passionate android and flutter developer from Indonesia</h3>
 
-<img align="right" alt="Coding" src="https://github.com/munovrizall/munovrizall/assets/85984439/3179c420-210c-4384-92b3-22c46d2b6107">
-
 - 🌱 I’m currently learning **Flutter framework, and Kotlin Native Android**
 
 - 📫 How to reach me **muhammadnovrizal87@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VuTeP_-GDW1Wb7s_DjY_j2orPSOxzEcv/view?usp=sharing](https://drive.google.com/file/d/1VuTeP_-GDW1Wb7s_DjY_j2orPSOxzEcv/view?usp=sharing)
+- 📄 Check my resume [https://drive.google.com/file/d/1VuTeP_-GDW1Wb7s_DjY_j2orPSOxzEcv/view?usp=sharing](https://drive.google.com/file/d/1VuTeP_-GDW1Wb7s_DjY_j2orPSOxzEcv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
