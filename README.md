@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="mailto:muhammadnovrizal87@gmail.com">Email</a> ·
+  <a href="https://munovrizall.my.id">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/munovrizall/">LinkedIn</a> ·
   <a href="https://github.com/munovrizall">GitHub</a> ·
   <a href="https://drive.google.com/file/d/1WmzvECmHg1k5Qa1bJXbPPmMpNtcVHTSB/view?usp=sharing">Resume</a>
@@ -21,6 +22,11 @@
 I help businesses turn ideas into scalable digital products. My work spans fullstack web platforms, Flutter mobile apps, IoT monitoring systems, HRIS/payroll products, and internal business tools that need to be clean, maintainable, and ready for real users.
 
 Currently, my production work supports 11,000+ monthly active users, handles 380,000+ monthly requests, and includes systems deployed to the Play Store, App Store, Dockerized servers, and business operations used by internal teams, customers, and field technicians.
+
+<p align="center">
+  <strong>Explore the full portfolio:</strong><br />
+  <a href="https://munovrizall.my.id">https://munovrizall.my.id</a>
+</p>
 
 ## What I Build
 
@@ -82,18 +88,25 @@ More projects include **Cerita Yuk**, **Sistem Informasi Persuratan Puskod**, **
 
 ## Experience
 
-**Software Engineer · PT. Quanta Teknik Gemilang (Smartcool)**  
-Jan 2025 - Present
+### Software Engineer
+
+**PT. Quanta Teknik Gemilang (Smartcool)** · Jan 2025 - Present
 
 Building and scaling Smartcool web, mobile, IoT, service, and internal operations products across React, TypeScript, Flutter, Laravel, Redis, Docker, Cloudflare, and Ubuntu VPS infrastructure.
 
-**Mobile Developer Intern · Studyo.io**  
-Oct 2024 - Feb 2025
+---
+
+### Mobile Developer Intern
+
+**Studyo.io** · Oct 2024 - Feb 2025
 
 Built an interactive Flutter-based educational game with 50+ progressive math levels, custom animations, and responsive UI implementation from Adobe XD designs.
 
-**Mobile Development Path · Bangkit Academy**  
-Sep 2024 - Dec 2024
+---
+
+### Mobile Development Path
+
+**Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka** · Sep 2024 - Dec 2024
 
 Completed a 900-hour intensive program led by Google, Tokopedia, Gojek, and Traveloka. Ranked in the top 10% and contributed to a Top 22 company capstone project.
 
@@ -107,8 +120,9 @@ Completed a 900-hour intensive program led by Google, Tokopedia, Gojek, and Trav
 ## GitHub Snapshot
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=munovrizall&langs_count=4&hide_values=true&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=munovrizall&langs_count=4&hide_values=true&theme=dracula)
+
 ---
 
 I am open to freelance work, product development collaborations, and engineering roles where the goal is not only to ship features, but to build software that survives real operations.
 
-For project inquiries, reach me at **muhammadnovrizal87@gmail.com**.
+For project inquiries, visit **[munovrizall.my.id](https://munovrizall.my.id)** or reach me at **muhammadnovrizal87@gmail.com**.
